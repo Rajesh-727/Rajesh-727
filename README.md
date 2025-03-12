@@ -2,9 +2,9 @@
 - 👀 I’m interested in website development.
 - 🌱 I’m currently learning Application Security
 - 💞️ I’m looking to collaborate on Nothing now
-- 📫 How to reach me Email
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 You can reach out to me via Email :- rajeshdabar727@gmail.com
+- 😄 Pronouns: Nothing
+- ⚡ Fun fact: Anything
 
 <!---
 Rajesh-727/Rajesh-727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
